@@ -1,0 +1,25 @@
+{
+  "name": "genderandpolitics",
+  "homepage": "http://www.genderandpolitics.org",
+  "authors": [
+    "Bhanu",
+    "talk2kish@gmail.com"
+  ],
+  "description": "",
+  "main": "",
+  "keywords": [
+    "gender",
+    "politics"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "materialize": "^0.98.0"
+  }
+}
